@@ -5,3 +5,4 @@ Git tracks changes of files
 Fuck 996 company
 Creating a new branch is quick and simple
 Wrote on dev branch
+Doing something
